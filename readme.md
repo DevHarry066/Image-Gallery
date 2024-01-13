@@ -1,6 +1,9 @@
-# Simple Tailwind CSS Starter
+# Image Gallery with Menu Bard
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is an Image Gallery project which shows images and can be searched images from input bar and also has Menu bar to filter 
+
+## Deployed link:
+https://image-gallery-orcin-three.vercel.app/
 
 ## Usage
 
